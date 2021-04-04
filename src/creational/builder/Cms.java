@@ -1,2 +1,5 @@
-package creational.builder;public enum Cms {
+package creational.builder;
+
+public enum Cms {
+    WORDPRESS, ALIFRESCO;
 }
